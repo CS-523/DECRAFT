@@ -92,11 +92,4 @@ dgl-cu113        0.8.1
 
 ## Citing
 
-If you find *Antifraud* is useful for your research, please consider citing the following papers:
 
-    @inproceedings{Xiang2023SemiSupervisedCC,
-        title={Semi-supervised Credit Card Fraud Detection via Attribute-driven Graph Representation},
-        author={Sheng Xiang and Mingzhi Zhu and Dawei Cheng and Enxia Li and Ruihui Zhao and Yi Ouyang and Ling Chen and Yefeng Zheng},
-        booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-        year={2023}
-    }
